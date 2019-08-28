@@ -1,26 +1,15 @@
 ---
 title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+description: This is a post on My Blog about starting a group project.
 date: 2018-05-01
 tags:
   - another-tag
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+It's sort of terrifying and exciting starting a blog. To add to the discomfort, these are completely new waters I'm treading in. It's like jumping into a pit who's bottom you can't see.
 
-## Section Header
+## Group project
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+Over the course of 12 weeks, 4 people including myself have been working on a website for a pseudo business. The website is just there to build our skills as developers. The website my team and I are building is aimed towards artists of all shapes and sizes. The business is called **Electra**. The goal of Electra is to help artists collaborate with each other. For example, you have a piece of art that you feel could improve but you need another set of eyes on the piece as a whole or just part of the piece. The artist would then recieve feedback/critique from the artist community on how the art could be improved or modified.
+Starting from the beginning of this project. We wanted to make sure our appraoch to the problem was well taken care off. We used Agile =
